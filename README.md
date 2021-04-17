@@ -18,4 +18,4 @@ Linux basics for developers
   * https://github.com/Javacream/org.javacream.training.linux.developers
 
 * Digitales Flipchart
-  * -
+  * https://docs.google.com/presentation/d/1oTU5yn_hSIrb3VtxgAEoBFh-ZrnElQRf84Gw13lHF-w/edit?usp=sharing
