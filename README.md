@@ -1,5 +1,5 @@
 # org.javacream.training.linux.user
-Linux basics for usrs
+Linux basics for users
 
 ## Organisatorisches
 
