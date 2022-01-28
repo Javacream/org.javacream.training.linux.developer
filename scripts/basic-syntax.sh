@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 if [ "$1" == "-h" ];then
 	echo "Scipt adds line numbers to a file on \$1"
