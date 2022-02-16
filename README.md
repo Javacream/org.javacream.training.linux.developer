@@ -1,5 +1,5 @@
-# org.javacream.training.linux.developer
-Linux basics for developers
+# org.javacream.training.linux.user
+Linux basics for users
 
 ## Organisatorisches
 
@@ -15,7 +15,7 @@ Linux basics for developers
 ## Durchführung des Seminars
 
 * Beispiele
-  * https://github.com/Javacream/org.javacream.training.linux.developers
+  * https://github.com/Javacream/org.javacream.training.linux.user
 
 * Digitales Flipchart
-  * -
+  * https://docs.google.com/presentation/d/1ZA_ipfWLD_bH-ipa06tsgiadL5f2Ufd4aXWbc9paLZM/edit?usp=sharing
