@@ -18,4 +18,4 @@ Linux basics for users
   * https://github.com/Javacream/org.javacream.training.linux.user
 
 * Digitales Flipchart
-  * https://docs.google.com/presentation/d/1ZA_ipfWLD_bH-ipa06tsgiadL5f2Ufd4aXWbc9paLZM/edit?usp=sharing
+  * https://docs.google.com/presentation/d/1Q3hQehys6nT9fs9JYmeAt9HbqTSQg5eq6XoKNc08U-4/edit?usp=sharing
