@@ -23,3 +23,14 @@ if [ $C -gt 20 ]; then echo 'C was greater than 20'; fi
 if [ $C -gt 5 ]; then 
    echo 'C was greater than 5';
 fi
+
+# Expression
+# uname liefert elementare Informationen über den Rechner, Hostnamen, ...
+
+echo "this is `uname -s` running on `uname -m`"
+
+uptime
+
+# argument parsing
+# $1 
+echo $1

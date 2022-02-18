@@ -1,0 +1,9 @@
+Hello
+6
+7
+8
+9
+10
+C was greater than 5
+this is Linux running on x86_64
+ 09:49:26 up 12 days, 0 min,  1 user,  load average: 1,14, 1,10, 1,13
