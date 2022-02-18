@@ -34,3 +34,8 @@ uptime
 # argument parsing
 # $1 
 echo $1
+
+# calling another script
+
+result=`./hello.sh`
+echo $result
