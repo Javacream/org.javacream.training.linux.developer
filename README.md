@@ -11,11 +11,5 @@ Linux basics for developers
   * Mittagspause 45’ (12:15-13:00)
   * Kaffeepausen 10:30 - 10:45 und 14:30 - 14:45
 
-
-## Durchführung des Seminars
-
-* Beispiele
-  * https://github.com/Javacream/org.javacream.training.linux.developers
-
 * Digitales Flipchart
-  * -
+  * https://docs.google.com/presentation/d/1jFRuQqPTgG17R9OC6XoehPxylhj7wCRcK55ULwdTjmw/edit?usp=sharing
