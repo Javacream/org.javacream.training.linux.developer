@@ -1,4 +1,4 @@
-# org.javacream.training.linux.developer
+# org.javacream.training.linux.user
 Linux basics for developers
 
 ## Organisatorisches
